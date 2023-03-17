@@ -2,6 +2,7 @@
   "name": "coin-test",
   "version": "1.0.0",
   "dependencies": {
-    
+    "bitcoinjs-lib": "^4.0.3",
+    "coinstring": "^0.2.0"
   }
 }
